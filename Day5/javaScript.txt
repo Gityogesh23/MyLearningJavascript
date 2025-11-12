@@ -162,4 +162,3 @@ In Summary:
 JavaScript is both client-side and server-side: It runs in the browser (client-side) and on the server (with environments like Node.js).
 JavaScript does not have a traditional compiler: It is usually interpreted by engines like V8.
 JavaScript uses transpilers: Tools like Babel and TypeScript are used to transpile modern or type-enhanced JavaScript into compatible JavaScript code.
-This dual capability and use of transpilers make JavaScript a highly flexible and powerful language for both web and server development.

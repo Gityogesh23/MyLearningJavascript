@@ -1,9 +1,9 @@
 //variables
-//always go with the let=>cannot bev redeclared but updated.only declaration without initialization will  be allowed
+//always go with the let=>cannot be redeclared but updated.only declaration without initialization will  be allowed
  //OR const=>cannot be redeclared as well as updated.=>also need to initialize always.
 //In js '' or "" are same.
 
-let age=24; //typeof age is Number (one of the data type in js=>Number,String,Boolean,BigInt,Symbol,Unfefined,Null )
+let age=24; //typeof age is Number (one of the data type in js=>Number,String,Boolean,BigInt,Symbol,Undefined,Null )
 age=35; //don't redeclared
 const pi=3.14;//value become unchanged  
 let fullName="Tony stark";
@@ -41,4 +41,4 @@ console.log("i love javascript");
 let length=10;
 const breadth=30;
 console.log("area of square= "+length*breadth);
-
+console.log("area of square= "+length*breadth);
